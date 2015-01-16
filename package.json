@@ -1,0 +1,26 @@
+{
+  "name": "llab-server",
+  "version": "0.0.1",
+  "description": "An express based server for llab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beautyjoy/llab-server.git"
+  },
+  "keywords": [
+    "server",
+    "curriculum"
+  ],
+  "author": "Michael Ball",
+  "license": "BSD 3-clause",
+  "bugs": {
+    "url": "https://github.com/beautyjoy/llab-server/issues"
+  },
+  "homepage": "https://github.com/beautyjoy/llab-server",
+  "dependencies": {
+    "express": "^4.11.0"
+  }
+}

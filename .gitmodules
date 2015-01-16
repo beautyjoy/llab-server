@@ -1,0 +1,3 @@
+[submodule "bjc-r"]
+	path = bjc-r
+	url = git://github.com/beautyjoy/bjc-r.git
